@@ -8,7 +8,7 @@ SensorDrop builds upon and extends the functionality of existing open-source ful
 
 The SensorDrop repository is organised around design and schematics files needed for the development of SensorDrop units:
 
-- Design files: contains all of the needed design files, schematics, and parts lists to independently manufacture SensorDrop units. 
+- For producing: contains all of the needed design files, schematics, and parts lists to independently manufacture SensorDrop units. 
 - Supplemental information: contains information to help with key SensorDrop design choice considerations (e.g., potential pitfalls and lessons learnt in user deployments)
 
 # Further information
